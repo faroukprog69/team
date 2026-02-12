@@ -1,11 +1,11 @@
 {
-  "name": "@faroukarar/teams",
+  "name": "@faroukprog69/teams",
   "version": "1.0.0",
   "exports": {
     ".": "./src/index.ts"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@faroukarar"
+    "registry": "https://npm.pkg.github.com/@faroukprog69"
   },
   "dependencies": {
     "crypto": "^1.0.1",
